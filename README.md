@@ -1,5 +1,7 @@
-### Hi there 👋 I am Carlos Miguel Advincula
+### Hi there, I'm Carlos Miguel 👋
 
+
+## I am currently Computer Science Student, passionate about the ever changing world of programming and design.
 <!--
 **Cmma16/Cmma16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
